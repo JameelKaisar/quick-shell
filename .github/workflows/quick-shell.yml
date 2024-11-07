@@ -24,8 +24,8 @@ on:
       authenticate:
         type: boolean
         description: 'Authenticated Access'
-        required: false
-        default: true
+        required: true
+        default: false
 
 jobs:
   build:
