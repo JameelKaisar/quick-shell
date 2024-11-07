@@ -16,12 +16,17 @@ Spawn a shell by creating a tunnel to the container running GitHub Actions workf
 NOTE: If you see a blank shell, press `q` key.
 
 # Runners
+- Source: [GitHub Docs](https://docs.github.com/en/actions/using-github-hosted-runners/using-github-hosted-runners/about-github-hosted-runners#standard-github-hosted-runners-for-public-repositories)
+- Updated: Nov 2024 by [Jameel Kaisar](https://github.com/jameelkaisar)
+
 | Runner | Operating System | Architecture | Processor (CPU) | Memory (RAM) | Storage (SSD) |
 | - | - | - | - | - | - |
-| ubuntu-22.04 | Ubuntu | x86_64 | 2 | 7 GB | 14 GB |
-| ubuntu-20.04 | Ubuntu | x86_64 | 2 | 7 GB | 14 GB |
+| ubuntu-24.04 | Ubuntu | x86_64 | 4 | 16 GB | 14 GB |
+| ubuntu-22.04 | Ubuntu | x86_64 | 4 | 16 GB | 14 GB |
+| ubuntu-20.04 | Ubuntu | x86_64 | 4 | 16 GB | 14 GB |
+| macos-15 | MacOS | arm64 | 3 | 7 GB | 14 GB |
+| macos-14 | MacOS | arm64 | 3 | 7 GB | 14 GB |
 | macos-13 | MacOS | x86_64 | 4 | 14 GB | 14 GB |
 | macos-12 | MacOS | x86_64 | 3 | 14 GB | 14 GB |
-| macos-11 | MacOS | x86_64 | 3 | 14 GB | 14 GB |
-| windows-2022 | Windows | x86_64 | 2 | 7 GB | 14 GB |
-| windows-2019 | Windows | x86_64 | 2 | 7 GB | 14 GB |
+| windows-2022 | Windows | x86_64 | 4 | 16 GB | 14 GB |
+| windows-2019 | Windows | x86_64 | 4 | 16 GB | 14 GB |
