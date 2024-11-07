@@ -1,4 +1,4 @@
-# quick-shell
+# Quick Shell
 Spawn a shell by creating a tunnel to the container running GitHub Actions workflow
 
 ## Usage
