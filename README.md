@@ -21,12 +21,12 @@ NOTE: If you see a blank shell, press `q` key.
 
 | Runner | Operating System | Architecture | Processor (CPU) | Memory (RAM) | Storage (SSD) |
 | - | - | - | - | - | - |
-| ubuntu-24.04 | Ubuntu | x86_64 | 4 | 16 GB | 14 GB |
-| ubuntu-22.04 | Ubuntu | x86_64 | 4 | 16 GB | 14 GB |
-| ubuntu-20.04 | Ubuntu | x86_64 | 4 | 16 GB | 14 GB |
-| macos-15 | MacOS | arm64 | 3 | 7 GB | 14 GB |
-| macos-14 | MacOS | arm64 | 3 | 7 GB | 14 GB |
-| macos-13 | MacOS | x86_64 | 4 | 14 GB | 14 GB |
-| macos-12 | MacOS | x86_64 | 3 | 14 GB | 14 GB |
-| windows-2022 | Windows | x86_64 | 4 | 16 GB | 14 GB |
-| windows-2019 | Windows | x86_64 | 4 | 16 GB | 14 GB |
+| [ubuntu-24.04](https://github.com/actions/runner-images/blob/main/images/ubuntu/Ubuntu2404-Readme.md) | Ubuntu | x86_64 | 4 | 16 GB | 14 GB |
+| [ubuntu-22.04](https://github.com/actions/runner-images/blob/main/images/ubuntu/Ubuntu2204-Readme.md) | Ubuntu | x86_64 | 4 | 16 GB | 14 GB |
+| [ubuntu-20.04](https://github.com/actions/runner-images/blob/main/images/ubuntu/Ubuntu2004-Readme.md) | Ubuntu | x86_64 | 4 | 16 GB | 14 GB |
+| [macos-15](https://github.com/actions/runner-images/blob/main/images/macos/macos-15-Readme.md) | MacOS | arm64 | 3 | 7 GB | 14 GB |
+| [macos-14](https://github.com/actions/runner-images/blob/main/images/macos/macos-14-Readme.md) | MacOS | arm64 | 3 | 7 GB | 14 GB |
+| [macos-13](https://github.com/actions/runner-images/blob/main/images/macos/macos-13-Readme.md) | MacOS | x86_64 | 4 | 14 GB | 14 GB |
+| [macos-12](https://github.com/actions/runner-images/blob/main/images/macos/macos-12-Readme.md) | MacOS | x86_64 | 3 | 14 GB | 14 GB |
+| [windows-2022](https://github.com/actions/runner-images/blob/main/images/windows/Windows2022-Readme.md) | Windows | x86_64 | 4 | 16 GB | 14 GB |
+| [windows-2019](https://github.com/actions/runner-images/blob/main/images/windows/Windows2019-Readme.md) | Windows | x86_64 | 4 | 16 GB | 14 GB |
